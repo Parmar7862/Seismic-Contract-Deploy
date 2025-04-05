@@ -51,7 +51,6 @@ source ~/.bashrc
 ```
 sfoundryup
 ```
-🔺This Process can take a while to fully download
 
 
 # Deploy an encrypted contract 🎶

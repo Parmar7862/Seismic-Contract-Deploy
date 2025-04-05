@@ -55,7 +55,7 @@ sfoundryup
 
 # Deploy an encrypted contract 🎶
 
-# 1. Clone & Navigate to The Repo
+# 1. Clone Repository
 
 ```
 git clone --recurse-submodules https://github.com/SeismicSystems/try-devnet.git

@@ -85,11 +85,7 @@ cd $home
 ```
 curl -fsSL https://bun.sh/install | bash
 ```
-- Unzip File IF you are getting this error
 
-```
-sudo apt install unzip
-```
 # 3. Install node dependencies
 
 ```

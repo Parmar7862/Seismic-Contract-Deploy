@@ -1,5 +1,11 @@
 # Seismic-Devnet-Contract-Deploy-Guide
-Guide How to Deploy Seismic Devnet Contract 
+How to Deploy Seismic Contract 
+
+Dependencies for WINDOWS & LINUX & VPS
+```
+sudo apt update && sudo apt install -y build-essential
+sudo apt install cargo -y
+```
 
 
 # Pre-Requirements

@@ -96,9 +96,3 @@ bash script/transact.sh
 
 Done ✅
 
-👉 Join TG for more Updates: https://telegram.me/cryptogg
-
-If U have any issue then open a issue on this repo or Dm me on TG~
-
-Thank U❤️
-
